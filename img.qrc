@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>code.png</file>
+        <file>data.png</file>
+        <file>proc1.png</file>
+        <file>proc4.png</file>
+        <file>proc5.png</file>
+        <file>ram.png</file>
+        <file>ramIcon.png</file>
+        <file>proc3.png</file>
+        <file>io.png</file>
+        <file>cpu.png</file>
+        <file>Cpu_Log.png</file>
+        <file>attantion.png</file>
+        <file>asd.png</file>
+        <file>img.png</file>
+        <file>icon_050610_256.png</file>
+        <file>img.jpg</file>
+        <file>stack.png</file>
+        <file>usb-hd-driver-icon-2.png</file>
+    </qresource>
+</RCC>

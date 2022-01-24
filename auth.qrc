@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Auth">
+        <file>key2.png</file>
+        <file>user.png</file>
+    </qresource>
+</RCC>

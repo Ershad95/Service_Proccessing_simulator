@@ -1,0 +1,2 @@
+#ifndef ERSHADLINEEDIT_H
+#define ERSHADLINEEDIT_H

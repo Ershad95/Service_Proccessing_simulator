@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/accept">
+        <file>acc.ico</file>
+    </qresource>
+</RCC>

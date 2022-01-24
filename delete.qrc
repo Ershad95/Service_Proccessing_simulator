@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Delete">
+        <file>Terminate.png</file>
+    </qresource>
+</RCC>
